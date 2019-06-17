@@ -1,0 +1,3 @@
+rootProject.name = 'pmovies_4787'
+
+include ':app'

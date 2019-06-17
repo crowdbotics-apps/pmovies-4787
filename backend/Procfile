@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT pmovies_4787.wsgi:application
